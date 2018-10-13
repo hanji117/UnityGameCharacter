@@ -8,3 +8,5 @@ see the animation. To get a better view of it turn the eye off next to armature.
 
 # Luna
 texturing5.blend has the character, Luna, that I created (using Blender) for the Unity game, The Almanac. 
+Expand the dope sheet and the timeline. Go to object mode. Click on the textured solid. Turn off Matcap. They are both located under Shading. Turn the armature on by clicking on the eye. Right click on one the lines on the character. It will turn light blue. Press "a" on your keyboard. All of them should turn blue. On the dope sheet select the animations with an F. Use your mouses middle button to zoom in or out and to move the camera view in user Ortho. Hold the middle mouse button to see more options in the dope sheet. The play button will be there. 
+  
